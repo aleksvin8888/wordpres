@@ -1,0 +1,7 @@
+# Folders ignor
+testcod/
+
+# Fail ignor
+# игнорируэм текстовые файли в папке testcod
+#testcod/*.txt
+license.txt
