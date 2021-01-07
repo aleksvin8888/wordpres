@@ -4,7 +4,7 @@
 ?>
 <?php
 	echo "string tect ";
-	echo "string test ";
+	echo " test ";
 ?>
 <?php
 	echo "string tect ";
